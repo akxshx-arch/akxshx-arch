@@ -8,5 +8,5 @@ class Person:
 
 Class Ak763x(Person):
   def __init__(self):
-    super().__init__("Ak763x", ["Coding", "Reading", "Coding", "Sleeping"], moods=[😴, 🍕, 🧑‍💻])
+    super().__init__(name="Ak763x", interests=["Coding", "Reading", "Coding", "Sleeping"], moods=[😴, 🍕, 🧑‍💻])
 ```
