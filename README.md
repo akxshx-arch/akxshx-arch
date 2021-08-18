@@ -16,3 +16,5 @@ Class Ak763x(Person):
     super().__init__(name="Ak763x", interests=["Coding", "Reading", "Coding", "Sleeping"], 
                      moods=[😴, 🍕, 🧑‍💻])
 ```
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
