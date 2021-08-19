@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/akxshx-arch/akxshx-arch/raw/main/Ak763x's%20Arch-x64.png" alt="Marton Lederer" />
+  <img src="https://github.com/akxshx-arch/akxshx-arch/raw/main/Ak763x's%20Arch-x64.png" alt="Ak763x's Arch-x64" />
 </h1>
 
 
