@@ -18,4 +18,3 @@ Class Ak763x(Person):
 ```
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<a href="https://app.daily.dev/sus"><img src="https://api.daily.dev/devcards/e3a9a2d94ee443a9abce03f25d964734.png?r=5rn" width="400" alt="Ak763x's Arch-x64's Dev Card"/></a>
