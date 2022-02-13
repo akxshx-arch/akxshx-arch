@@ -18,4 +18,5 @@ Class Ak763x(Person):
 ```
 
 <p align="center"> ![Jokes Card](https://readme-jokes.vercel.app/api) </p>
+p align="center"> <img src="https://readme-jokes.vercel.app/api" alt="joek" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" />
