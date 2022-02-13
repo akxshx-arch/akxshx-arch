@@ -19,3 +19,4 @@ Class Ak763x(Person):
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" />
+![Snake animation](https://github.com/akxshx-arch/akxshx-arch/blob/output/github-contribution-grid-snake.svg)
