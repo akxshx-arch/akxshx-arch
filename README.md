@@ -13,7 +13,7 @@ class Person:
 
 Class Ak763x(Person):
   def __init__(self):
-    super().__init__(name="Ak763x", interests=["Coding", "Reading", "Eating", "Sleeping"], 
+    super().__init__(name="Ak", interests=["Coding", "Reading", "Eating", "Sleeping"], 
                      moods=[😴, 🍕, 🧑‍💻, 📚])
 ```
 <p align="center"> <img src="https://readme-jokes.vercel.app/api" alt="joek" />
