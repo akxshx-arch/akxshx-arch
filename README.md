@@ -16,4 +16,5 @@ Class Ak(Person):
     super().__init__(name="Ak", interests=["Coding", "Reading", "Eating", "Sleeping"], 
                      moods=["bleh"])
 ```
-<pre><p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="joek" /><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" /></pre>
+<pre><p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="joek" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" /></pre>
