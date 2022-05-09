@@ -16,7 +16,7 @@ Class Ak(Person):
     super().__init__(name="Ak", interests=["Coding", "Reading", "Eating", "Sleeping"], 
                      moods=["bleh"])
 ```
-<div style="float: left; clear: none; align: center; padding-left: 100px; padding-right: 100px">
+<div style="float: left; clear: none; padding-left: 100px; padding-right: 100px">
 <img src="https://readme-jokes.vercel.app/api" alt="joek" style="padding-left: 100px" />
 <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" />
 </div>
