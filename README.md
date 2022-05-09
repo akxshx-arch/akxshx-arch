@@ -11,10 +11,24 @@ class Person:
     self.moods = moods
 
 
-Class Ak763x(Person):
+Class Ak(Person):
   def __init__(self):
     super().__init__(name="Ak", interests=["Coding", "Reading", "Eating", "Sleeping"], 
-                     moods=[😴, 🍕, 🧑‍💻, 📚])
+                     moods=["bleh"])
 ```
-<p align="center"> <img src="https://readme-jokes.vercel.app/api" alt="joek" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" />
+<style>
+  #inner {
+  display: table;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#outer {
+  border: 1px solid red;
+  width:100%
+}
+</style>
+<div id="outer">
+<p id="inner"> <img src="https://readme-jokes.vercel.app/api" alt="joek" />
+<p id="inner"> <img src="https://github-readme-stats.vercel.app/api?username=akxshx-arch&show_icons=true&theme=gotham" alt="Ak" />
+</div>
