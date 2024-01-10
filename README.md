@@ -16,7 +16,7 @@ Class Ak(Person):
     super().__init__(name="Ak", interests=["Coding", "Reading", "Eating", "Sleeping"], 
                      moods=["bleh"])
 ```
-<div style="float: right; clear: none; padding-left: 100px; padding-right: 100px">
+<div style="float: right; clear: none; padding-left: 300px; padding-right: 100px">
 <img src="https://readme-jokes.vercel.app/api" alt="joek" style="padding-left: 100px" />
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
